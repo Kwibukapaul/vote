@@ -1,4 +1,7 @@
 {
+  "dev":"node index.js",
+  "prod":"node index.js",
+    
   "dependencies": {
     "express": "^4.19.2",
     "mysql": "^2.18.1"
